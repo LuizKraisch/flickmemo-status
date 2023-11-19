@@ -1,4 +1,8 @@
-# [📈 Live Status](https://LuizKraisch.github.io/flickmemo-status): <!--live status--> **🟩 All systems operational**
+# Flickmemo Status
+
+Here you can check the status of Flickmemo's API. Updated every 5 minutes.
+
+### [📈 Live Status](https://LuizKraisch.github.io/flickmemo-status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Luiz Kraisch](https://www.behance.net/luizkraisch), powered by [Upptime](https://github.com/upptime/upptime).
 
