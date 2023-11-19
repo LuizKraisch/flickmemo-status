@@ -14,8 +14,6 @@ Here you can check the status of Flickmemo's API. Updated every 5 minutes.
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://LuizKraisch.github.io/flickmemo-status)
-
 ## 📄 License
 
 - Watching: [Flickmemo API](https://github.com/LuizKraisch/flickmemo-api)
