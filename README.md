@@ -20,7 +20,7 @@ Here you can check the status of Flickmemo's API. Updated every 5 minutes.
 
 ## 📄 License
 
-- Watching: [Flickmemo API]([https://github.com/upptime/upptime](https://github.com/LuizKraisch/flickmemo-api))
+- Watching: [Flickmemo API](https://github.com/LuizKraisch/flickmemo-api)
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Luiz Kraisch](https://www.behance.net/luizkraisch)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
