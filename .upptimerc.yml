@@ -4,12 +4,14 @@ repo: flickmemo-status
 sites:
   - name: Flickmemo API
     url: http://24.144.88.242/
+  - name: Google
+    url: https://www.google.com
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/LuizKraisch/flickmemo/main/assets/logos/flickmemo-logo-small.png
   name: Flickmemo
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "This is the Flickmemo's API current status."
+  introTitle: "**Welcome** to Flickmemo's API status page"
+  introMessage: "Current status:"
   navbar:
     - title: Status
       href: /
