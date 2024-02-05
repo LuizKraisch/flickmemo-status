@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/24.144.88.242.ico",
     "slug": "flickmemo-api",
     "status": "down",
-    "uptime": "94.48%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.15%",
-    "uptimeYear": "94.48%",
+    "uptimeYear": "94.55%",
     "time": 76,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 99,
+    "timeMonth": 93,
     "timeYear": 76,
     "dailyMinutesDown": {
       "2024-01-11": 1141,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 393,
+    "time": 106,
+    "timeDay": 75,
     "timeWeek": 164,
     "timeMonth": 134,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   }
 ]
